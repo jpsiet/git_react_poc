@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.high-order-component{
+
+
+	border: 1px solid blue;
+	padding:20px;
+}
+
+header{
+
+	margin-bottom: 20px;
+}
+
+.children-utility{
+
+	border: 1px solid gray;
+	padding: 20px;
+}
